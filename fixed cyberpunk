@@ -24,7 +24,7 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   /* BACKGROUND IMAGES */
-  --background-image: url(https://images3.alphacoders.com/134/1346679.jpg);
+  --background-image: url(https://i.imgur.com/TteIHNG.jpeg);
   --background-attachment: fixed;
   --user-popout-image: var(--background-image);
   --user-popout-attachment: var(--background-attachment);
